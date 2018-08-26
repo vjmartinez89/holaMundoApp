@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">HolaMundo</string>
-    <string name="button">Enviar</string>
-    <string name="titleMainPage">Bienvenido</string>
-    <string name="textMainPage">Descripción de la aplicación</string>
+    <string name="app_name">Tarea I</string>
+    <string name="enter_button_text">Entrar</string>
+    <string name="main_page_title">Bienvenido</string>
 </resources>

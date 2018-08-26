@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
-    <string name="button">Send</string>
-    <string name="titleMainPage">Welcome</string>
-    <string name="textMainPage">Application descripction</string>
+    <string name="app_name">Task I</string>
+    <string name="enter_button_text">Enter</string>
+    <string name="main_page_title">Welcome</string>
 </resources>

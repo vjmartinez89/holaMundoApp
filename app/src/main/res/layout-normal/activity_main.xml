@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="35dp"
+        android:layout_marginTop="70dp"
         android:gravity="center_horizontal"
         android:text="@string/main_page_title"
         android:textColor="@android:color/white"
@@ -29,10 +29,9 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="90dp"
-        android:background="@drawable/transparent_white_border_button"
+        android:layout_marginTop="183dp"
         android:text="@string/enter_button_text"
-        android:textAllCaps="false"
-        android:textColor="@android:color/white" />
-
+        android:background="@drawable/transparent_white_border_button"
+        android:textColor="@android:color/white"
+        android:textAllCaps="false"/>
 </RelativeLayout>
